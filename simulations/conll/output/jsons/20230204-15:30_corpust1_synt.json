@@ -1,0 +1,190 @@
+{
+    "Rochester": {
+        "nmod:poss": 1,
+        "nmod": 37,
+        "obl": 32,
+        "conj": 4,
+        "compound": 2,
+        "appos": 1
+    },
+    "Akron": {
+        "nmod": 21,
+        "conj": 4,
+        "obl": 21,
+        "nsubj": 1,
+        "appos": 2,
+        "advcl": 1
+    },
+    "Essex": {
+        "compound": 7,
+        "nmod": 63,
+        "appos": 35,
+        "conj": 21,
+        "obj": 3,
+        "obl": 11,
+        "nsubj": 2
+    },
+    "Hays": {
+        "flat": 1,
+        "nmod": 13,
+        "compound": 3,
+        "obl": 9,
+        "root": 1,
+        "conj": 1
+    },
+    "Dachau": {
+        "nmod": 5,
+        "obl": 12,
+        "obj": 1,
+        "nmod:tmod": 2,
+        "nsubj:pass": 1,
+        "conj": 2,
+        "appos": 1,
+        "flat": 1
+    },
+    "Michigan": {
+        "appos": 13,
+        "nmod": 22,
+        "nsubj": 2,
+        "conj": 19,
+        "obl": 4,
+        "obl:npmod": 2,
+        "acl": 1
+    },
+    "Irvine": {
+        "root": 3,
+        "obl": 7,
+        "nmod": 13,
+        "compound": 1,
+        "conj": 1
+    },
+    "Dortmund": {
+        "conj": 5,
+        "nmod": 12,
+        "obl": 8,
+        "appos": 1,
+        "nsubj:pass": 1,
+        "compound": 2
+    },
+    "Augsburg": {
+        "obl": 91,
+        "nmod": 88,
+        "parataxis": 1,
+        "obj": 4,
+        "nsubj": 3,
+        "conj": 31,
+        "appos": 8,
+        "flat": 5,
+        "nsubj:pass": 1,
+        "root": 2,
+        "compound": 2
+    },
+    "Tenerife": {
+        "nmod": 15,
+        "conj": 9,
+        "obl:tmod": 1,
+        "obl": 5,
+        "appos": 1,
+        "nsubj": 1
+    },
+    "Berkeley": {
+        "appos": 4,
+        "conj": 8,
+        "obl": 40,
+        "nmod": 54,
+        "obj": 2,
+        "compound": 2,
+        "nsubj": 3
+    },
+    "Harewood": {
+        "obj": 1,
+        "conj": 14,
+        "nmod": 24,
+        "obl": 7,
+        "nsubj": 3,
+        "compound": 2
+    },
+    "Nairobi": {
+        "root": 2,
+        "obl": 72,
+        "flat": 3,
+        "conj": 40,
+        "nmod": 54,
+        "nmod:poss": 4,
+        "obj": 7,
+        "compound": 5,
+        "appos": 7,
+        "parataxis": 1,
+        "nsubj": 2
+    },
+    "Otago": {
+        "conj": 22,
+        "nmod": 72,
+        "obl": 52,
+        "compound": 7,
+        "obj": 8,
+        "root": 1,
+        "parataxis": 1,
+        "appos": 7,
+        "nsubj": 4,
+        "flat": 2,
+        "acl": 1,
+        "nmod:poss": 3
+    },
+    "Pomona": {
+        "obl": 29,
+        "nmod": 44,
+        "flat": 3,
+        "obj": 7,
+        "appos": 2,
+        "conj": 10,
+        "nsubj:pass": 2,
+        "nmod:poss": 2,
+        "root": 1,
+        "compound": 1,
+        "nsubj": 1
+    },
+    "Deptford": {
+        "nmod": 65,
+        "obl": 123,
+        "obj": 4,
+        "appos": 13,
+        "nmod:tmod": 1,
+        "conj": 15,
+        "root": 1,
+        "nsubj": 1
+    },
+    "Claremont": {
+        "nmod": 70,
+        "nmod:poss": 1,
+        "obl": 46,
+        "conj": 8,
+        "obj": 2,
+        "nmod:tmod": 1,
+        "appos": 1,
+        "nsubj": 1
+    },
+    "Offenbach": {
+        "obl": 25,
+        "appos": 3,
+        "conj": 10,
+        "nmod": 25,
+        "orphan": 1,
+        "flat": 3,
+        "nmod:tmod": 2,
+        "nsubj": 2,
+        "compound": 1,
+        "nsubj:pass": 1,
+        "obl:agent": 1,
+        "root": 1,
+        "obj": 1
+    },
+    "Huelva": {
+        "conj": 19,
+        "nmod": 46,
+        "obl": 37,
+        "appos": 14,
+        "obj": 7,
+        "flat": 2
+    }
+}

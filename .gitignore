@@ -1,0 +1,13 @@
+package_data
+simulations
+data/discowug/*
+data/semcor/*
+data/VUAMC/*
+data/wimcor-v1.1/*
+detection_systems/*
+simulations/conll/*.conll
+simulations/token/*.txt
+simulations/lemma/*.txt
+data/unused/
+data/all_text.txt
+nltk_data/

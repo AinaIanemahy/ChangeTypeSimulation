@@ -1,0 +1,63 @@
+{
+    "Rochester": {
+        "Number=Sing": 83
+    },
+    "Redland": {
+        "Number=Sing": 25
+    },
+    "Kyoto": {
+        "Number=Sing": 153
+    },
+    "Oregon": {
+        "Number=Sing": 252
+    },
+    "Leicester": {
+        "Number=Sing": 298,
+        "Number=Plur": 2
+    },
+    "Arkansas": {
+        "Number=Sing": 73
+    },
+    "Norwich": {
+        "Number=Sing": 46
+    },
+    "Lugo": {
+        "Number=Sing": 34
+    },
+    "Pisa": {
+        "Number=Sing": 317
+    },
+    "Darmstadt": {
+        "Number=Sing": 155
+    },
+    "Battersea": {
+        "Number=Sing": 89
+    },
+    "Derry": {
+        "Number=Sing": 124
+    },
+    "Chartres": {
+        "Number=Sing": 123
+    },
+    "Iowa": {
+        "Number=Sing": 213
+    },
+    "Durham": {
+        "Number=Sing": 109
+    },
+    "Davis": {
+        "Number=Sing": 102
+    },
+    "Berkeley": {
+        "Number=Sing": 58
+    },
+    "Bremen": {
+        "Number=Sing": 256
+    },
+    "Brighton": {
+        "Number=Sing": 367
+    },
+    "Bandung": {
+        "Number=Sing": 137
+    }
+}

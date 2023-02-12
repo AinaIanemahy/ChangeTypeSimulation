@@ -1,0 +1,49 @@
+name: CDSystems
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - cudatoolkit=10.2
+  - pytorch::pytorch==1.12.1
+  - pytorch::torchvision==0.13.1
+  - absl-py
+  - boto
+  - boto3
+  - cachetools
+  - chardet
+  - click
+  - docutils
+  - filelock
+  - future
+  - gensim
+  - google-auth
+  - google-auth-oauthlib
+  - grpcio
+  - h5py
+  - importlib-metadata
+  - joblib
+  - markdown
+  - networkx
+  - nltk
+  - packaging
+  - pandas
+  - pandasql
+  - pip
+  - protobuf
+  - pyparsing
+  - sacremoses
+  - scikit-learn
+  - sentencepiece
+  - tensorboard
+  - tensorboardx
+  - termcolor
+  - tokenizers
+  - transformers
+  - matplotlib
+  - docopt
+  - pip:
+    - simple-elmo # semeval2020
+    - stanza # grammatical-profiles
+    - ruptures # for grammatical-profiles
+    - vladiate # for DeepMistake
+    - wordfreq # semeval2020

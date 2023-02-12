@@ -1,0 +1,11 @@
+,universalPOS,lemma,base_sense,base_count,other_sense,other_count
+0,ADJ,large,lit_large,55,met_large,42
+1,ADJ,little,lit_little,70,met_little,21
+2,ADJ,long,lit_long,53,met_long,43
+3,ADJ,new,lit_new,137,met_new,21
+4,ADJ,old,lit_old,91,met_old,24
+5,ADJ,small,lit_small,91,met_small,20
+6,NOUN,area,lit_area,134,met_area,15
+7,NOUN,body,lit_body,46,met_body,17
+8,NOUN,group,lit_group,59,met_group,17
+9,NOUN,hand,lit_hand,64,met_hand,30

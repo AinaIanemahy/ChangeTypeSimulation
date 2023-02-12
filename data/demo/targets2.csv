@@ -1,0 +1,10 @@
+,universalPOS,lemma,base_sense,base_count,other_sense,other_count
+10,NOUN,home,lit_home,50,met_home,15
+11,NOUN,law,lit_law,82,met_law,18
+12,NOUN,part,lit_part,41,met_part,54
+13,NOUN,place,lit_place,77,met_place,29
+14,NOUN,side,lit_side,46,met_side,28
+15,NOUN,system,lit_system,109,met_system,40
+16,NOUN,thing,lit_thing,50,met_thing,138
+17,NOUN,world,lit_world,50,met_world,33
+18,VERB,ask,lit_ask,124,met_ask,15

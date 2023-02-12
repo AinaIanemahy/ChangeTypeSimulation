@@ -1,0 +1,17 @@
+build	1
+insist	1
+announce	1
+idea	1
+state	1
+object	1
+woman	1
+create	1
+decide	1
+person	1
+method	1
+select	1
+concern	1
+expect	1
+kill	1
+cut	1
+event	1

@@ -1,0 +1,16 @@
+state	1
+expect	1
+create	1
+individual	1
+achieve	1
+select	1
+object	1
+region	1
+sort	1
+return	1
+exist	1
+concern	1
+cause	1
+existence	1
+pay	1
+kill	1

@@ -1,0 +1,17 @@
+obtain	1
+imagine	1
+determine	1
+person	1
+region	1
+exist	1
+event	1
+pay	1
+insist	1
+existence	1
+cut	1
+prevent	1
+create	1
+cost	1
+object	1
+cause	1
+select	1

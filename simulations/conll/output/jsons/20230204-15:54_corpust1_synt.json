@@ -1,0 +1,216 @@
+{
+    "Girona": {
+        "obl": 17,
+        "obj": 1,
+        "nmod": 26,
+        "conj": 13,
+        "appos": 5
+    },
+    "Aberdeen": {
+        "nmod": 39,
+        "obl": 32,
+        "conj": 21,
+        "obj": 1,
+        "nsubj": 1,
+        "appos": 9,
+        "parataxis": 1,
+        "nsubj:pass": 1,
+        "orphan": 1,
+        "compound": 3,
+        "dep": 1
+    },
+    "Cork": {
+        "conj": 4,
+        "nmod": 32,
+        "obl": 17,
+        "appos": 25,
+        "root": 1,
+        "compound": 3,
+        "acl:relcl": 1,
+        "xcomp": 1,
+        "advcl": 1
+    },
+    "Wimbledon": {
+        "obl": 15,
+        "nmod": 7,
+        "nmod:poss": 1,
+        "appos": 2,
+        "nsubj": 1
+    },
+    "Zaragoza": {
+        "obl": 8,
+        "conj": 4,
+        "flat": 1,
+        "compound": 1,
+        "nmod": 8,
+        "nmod:poss": 1,
+        "appos": 3,
+        "xcomp": 1
+    },
+    "Fukushima": {
+        "obl": 192,
+        "conj": 27,
+        "nmod": 75,
+        "appos": 103,
+        "obl:agent": 5,
+        "acl:relcl": 5,
+        "nsubj:pass": 3,
+        "obj": 6,
+        "list": 3,
+        "nmod:tmod": 3,
+        "root": 1
+    },
+    "Graz": {
+        "obl": 141,
+        "obj": 4,
+        "nmod": 148,
+        "root": 10,
+        "conj": 63,
+        "acl:relcl": 2,
+        "appos": 12,
+        "nmod:tmod": 4,
+        "orphan": 2
+    },
+    "Vincennes": {
+        "obl": 14,
+        "nmod": 9,
+        "appos": 1,
+        "conj": 1
+    },
+    "Kent": {
+        "nmod": 61,
+        "compound": 11,
+        "appos": 21,
+        "obj": 2,
+        "conj": 12,
+        "obl": 21,
+        "nmod:poss": 1,
+        "advcl": 1
+    },
+    "Battersea": {
+        "nmod": 13,
+        "root": 1,
+        "obl": 8,
+        "flat": 1,
+        "conj": 2,
+        "appos": 2,
+        "compound": 2
+    },
+    "Indiana": {
+        "compound": 1,
+        "nmod": 114,
+        "obl": 63,
+        "conj": 114,
+        "nsubj": 8,
+        "appos": 25,
+        "xcomp": 1,
+        "obj": 5,
+        "nmod:poss": 6,
+        "acl:relcl": 1
+    },
+    "Mysore": {
+        "nmod": 52,
+        "conj": 36,
+        "obl": 44,
+        "nsubj": 2,
+        "acl": 1,
+        "appos": 5,
+        "orphan": 1,
+        "obj": 1,
+        "nmod:poss": 2,
+        "compound": 3,
+        "list": 1,
+        "flat": 1
+    },
+    "Everglades": {
+        "obl": 18,
+        "root": 1,
+        "conj": 6,
+        "nmod": 33,
+        "obj": 4,
+        "appos": 2,
+        "obl:agent": 1,
+        "nsubj": 1,
+        "nsubj:pass": 1
+    },
+    "Washington": {
+        "nmod": 62,
+        "compound": 23,
+        "flat": 3,
+        "obl": 46,
+        "nsubj": 3,
+        "nmod:poss": 4,
+        "obj": 7,
+        "conj": 23,
+        "obl:agent": 1,
+        "appos": 2
+    },
+    "Claremont": {
+        "obl": 56,
+        "nmod": 66,
+        "nmod:poss": 1,
+        "conj": 3,
+        "appos": 1,
+        "nmod:tmod": 2,
+        "acl:relcl": 1,
+        "obj": 1
+    },
+    "Marburg": {
+        "obl": 55,
+        "nmod": 67,
+        "conj": 15,
+        "obj": 2,
+        "appos": 4,
+        "root": 2,
+        "nsubj:pass": 2,
+        "nsubj": 1,
+        "compound": 1
+    },
+    "Oklahoma": {
+        "obl": 54,
+        "conj": 32,
+        "nmod": 62,
+        "compound": 12,
+        "appos": 4,
+        "obj": 4,
+        "nsubj": 6,
+        "root": 2,
+        "orphan": 1,
+        "nmod:poss": 2,
+        "nsubj:pass": 1,
+        "flat": 1
+    },
+    "Irvine": {
+        "obl": 49,
+        "nmod:poss": 3,
+        "nmod": 43,
+        "root": 2,
+        "conj": 7,
+        "obl:agent": 1,
+        "obj": 3,
+        "compound": 1,
+        "acl:relcl": 1,
+        "flat": 1,
+        "appos": 2
+    },
+    "Bowie": {
+        "nmod": 21,
+        "obl": 23,
+        "conj": 4,
+        "compound": 1,
+        "acl:relcl": 1,
+        "flat": 2,
+        "appos": 2,
+        "obj": 1
+    },
+    "Hawaii": {
+        "conj": 29,
+        "nmod": 38,
+        "appos": 9,
+        "obl": 32,
+        "obj": 2,
+        "flat": 1,
+        "nsubj": 3,
+        "compound": 2
+    }
+}

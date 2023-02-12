@@ -1,0 +1,21 @@
+name: ChangeSim
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=10.2
+  - pytorch::pytorch==1.12.1
+  - pytorch::torchvision==0.13.1
+  - conllu
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas
+  - pattern
+  - pip
+  - tqdm
+  - textblob
+  - pip:
+      - stanza # grammatical-profiles
+

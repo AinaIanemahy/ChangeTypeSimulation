@@ -1,0 +1,198 @@
+{
+    "shelter": {
+        "Number=Sing": 58,
+        "Number=Plur": 27,
+        "Tense=Past|VerbForm=Part": 21,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 3,
+        "VerbForm=Inf": 6,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 4,
+        "VerbForm=Ger": 6,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 9,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 3,
+        "Tense=Pres|VerbForm=Part": 2
+    },
+    "push": {
+        "VerbForm=Inf": 32,
+        "VerbForm=Ger": 14,
+        "Number=Sing": 38,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 19,
+        "Mood=Imp|VerbForm=Fin": 1,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 5,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 3,
+        "Tense=Past|VerbForm=Part": 1,
+        "Mood=Ind|Person=3|Tense=Past|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin": 1,
+        "Number=Plur": 2
+    },
+    "morning": {
+        "Number=Sing": 125,
+        "Number=Plur": 23
+    },
+    "discuss": {
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 8,
+        "VerbForm=Ger": 33,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 16,
+        "VerbForm=Inf": 12,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 3,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 4,
+        "Tense=Pres|VerbForm=Part": 4,
+        "Tense=Past|VerbForm=Part": 2,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 1,
+        "Tense=Pres|VerbForm=Inf": 2
+    },
+    "sample": {
+        "Number=Plur": 26,
+        "Number=Sing": 48,
+        "Tense=Past|VerbForm=Part": 7,
+        "VerbForm=Inf": 3
+    },
+    "training": {
+        "Number=Plur": 38,
+        "Number=Sing": 267
+    },
+    "employee": {
+        "Number=Plur": 72,
+        "Number=Sing": 32
+    },
+    "explain": {
+        "VerbForm=Inf": 15,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 7,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 37,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 12,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 35,
+        "Tense=Past|VerbForm=Part": 11,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 5,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin": 1,
+        "VerbForm=Ger": 12,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 1,
+        "Mood=Imp|VerbForm=Fin": 1
+    },
+    "improve": {
+        "VerbForm=Inf": 52,
+        "Tense=Past|VerbForm=Part": 91,
+        "VerbForm=Ger": 11,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 10,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 19,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 6,
+        "Mood=Imp|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 1,
+        "Mood=Ind|Person=3|Tense=Past|VerbForm=Fin": 1
+    },
+    "pay": {
+        "VerbForm=Ger": 31,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 40,
+        "Tense=Past|VerbForm=Part": 65,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 14,
+        "VerbForm=Inf": 89,
+        "Number=Sing": 91,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 5,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 32,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 11,
+        "Mood=Imp|VerbForm=Inf": 1,
+        "Mood=Imp|Person=2|VerbForm=Fin": 3,
+        "Tense=Pres|VerbForm=Part": 2,
+        "Mood=Imp|VerbForm=Fin": 8,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin": 1,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin": 6,
+        "Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin": 1,
+        "Mood=Ind|Tense=Past|VerbForm=Fin": 2,
+        "Number=Plur": 1
+    },
+    "look": {},
+    "encourage": {
+        "Tense=Past|VerbForm=Part": 17,
+        "VerbForm=Inf": 29,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 5,
+        "VerbForm=Ger": 10,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 4,
+        "Tense=Pres|VerbForm=Part": 1,
+        "_": 2,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 4,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 3,
+        "Mood=Ind|Person=3|Tense=Past|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 1
+    },
+    "condition": {
+        "Number=Plur": 66,
+        "Number=Sing": 47,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 4,
+        "Tense=Past|VerbForm=Part": 12,
+        "VerbForm=Inf": 2,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 1
+    },
+    "price": {
+        "Number=Sing": 67,
+        "Tense=Past|VerbForm=Part": 13,
+        "Number=Plur": 43,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 2
+    },
+    "achieve": {
+        "Tense=Past|VerbForm=Part": 12,
+        "VerbForm=Ger": 9,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 10,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 15,
+        "VerbForm=Inf": 25,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin": 2,
+        "Mood=Ind|Tense=Past|VerbForm=Fin": 1
+    },
+    "fear": {
+        "Number=Sing": 67,
+        "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin": 4,
+        "Number=Plur": 35,
+        "VerbForm=Inf": 11,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 40,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 1,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 7,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 25,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 2,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 12,
+        "VerbForm=Ger": 59,
+        "Tense=Past|VerbForm=Part": 10,
+        "Mood=Ind|Tense=Past|VerbForm=Fin": 1,
+        "Mood=Imp|VerbForm=Inf": 1,
+        "Mood=Ind|Person=3|Tense=Past|VerbForm=Fin": 1,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin": 1
+    },
+    "complete": {
+        "Degree=Pos": 446,
+        "VerbForm=Ger": 10,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 4,
+        "Tense=Past|VerbForm=Part": 25,
+        "VerbForm=Inf": 20,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 17,
+        "Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin": 1,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 3,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin": 1
+    },
+    "Jew": {
+        "Number=Sing": 86,
+        "Number=Plur": 598,
+        "PronType=Int": 2,
+        "Degree=Pos": 2
+    },
+    "feed": {
+        "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin": 4,
+        "Number=Sing": 73,
+        "Mood=Imp|VerbForm=Fin": 6,
+        "Mood=Imp|Person=2|VerbForm=Fin": 3,
+        "Tense=Past|VerbForm=Part|Voice=Pass": 9,
+        "Number=Plur": 9,
+        "VerbForm=Fin": 1,
+        "Tense=Past|VerbForm=Part": 12,
+        "VerbForm=Inf": 47,
+        "VerbForm=Ger": 4,
+        "Tense=Pres|VerbForm=Part": 3,
+        "_": 2,
+        "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin": 2,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin": 11,
+        "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin": 2,
+        "Tense=Past|VerbForm=Inf": 1,
+        "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin": 2
+    }
+}

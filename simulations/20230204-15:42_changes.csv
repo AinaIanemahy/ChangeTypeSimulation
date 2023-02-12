@@ -1,0 +1,21 @@
+lemma,pos,change_type,change_result,base_sense,other_sense,counts_before,counts_after
+Alicante,NOUN,metonymy,gain,lit_LOCATION_Alicante,met_TEAM_AlicanteCF,"{'lit_LOCATION_Alicante': 167, 'met_TEAM_AlicanteCF': 0}","{'lit_LOCATION_Alicante': 46, 'met_TEAM_AlicanteCF': 46}"
+Valencia,NOUN,metonymy,gain,lit_LOCATION_Valencia,met_TEAM_ValenciaCF,[],[]
+Oklahoma,NOUN,metonymy,gain,lit_LOCATION_OklahomaTerritory,met_INSTITUTE_UniversityofOklahoma,"{'lit_LOCATION_OklahomaTerritory': 25, 'met_INSTITUTE_UniversityofOklahoma': 0}","{'lit_LOCATION_OklahomaTerritory': 62, 'met_INSTITUTE_UniversityofOklahoma': 62}"
+Niagara,NOUN,metonymy,gain,lit_LOCATION_NiagaraFalls;Ontario,met_INSTITUTE_NiagaraCollege,"{'lit_LOCATION_NiagaraFalls;Ontario': 27, 'met_INSTITUTE_NiagaraCollege': 0}","{'lit_LOCATION_NiagaraFalls;Ontario': 54, 'met_INSTITUTE_NiagaraCollege': 54}"
+Thun,NOUN,metonymy,gain,lit_LOCATION_Thun,met_TEAM_FCThun,"{'lit_LOCATION_Thun': 53, 'met_TEAM_FCThun': 0}","{'lit_LOCATION_Thun': 93, 'met_TEAM_FCThun': 93}"
+Valencia,NOUN,metonymy,gain,lit_LOCATION_ValencianCommunity,met_INSTITUTE_UniversityofValencia,[],[]
+Compostela,NOUN,metonymy,gain,lit_LOCATION_SantiagodeCompostela,met_TEAM_SDCompostela,"{'lit_LOCATION_SantiagodeCompostela': 444, 'met_TEAM_SDCompostela': 0}","{'lit_LOCATION_SantiagodeCompostela': 65, 'met_TEAM_SDCompostela': 65}"
+Lund,NOUN,metonymy,gain,lit_LOCATION_Lund,met_INSTITUTE_LundUniversity,"{'lit_LOCATION_Lund': 60, 'met_INSTITUTE_LundUniversity': 0}","{'lit_LOCATION_Lund': 109, 'met_INSTITUTE_LundUniversity': 109}"
+Kosovo,NOUN,metonymy,gain,lit_LOCATION_Kosovo,met_EVENT_KosovoWar,"{'lit_LOCATION_Kosovo': 25, 'met_EVENT_KosovoWar': 0}","{'lit_LOCATION_Kosovo': 99, 'met_EVENT_KosovoWar': 99}"
+Seville,NOUN,metonymy,gain,lit_LOCATION_Seville,met_TEAM_SevillaFC,"{'lit_LOCATION_Seville': 73, 'met_TEAM_SevillaFC': 0}","{'lit_LOCATION_Seville': 86, 'met_TEAM_SevillaFC': 86}"
+Fullerton,NOUN,metonymy,constant,lit_LOCATION_Fullerton;California,met_INSTITUTE_FullertonCollege,"{'lit_LOCATION_Fullerton;California': 107, 'met_INSTITUTE_FullertonCollege': 18}","{'lit_LOCATION_Fullerton;California': 107, 'met_INSTITUTE_FullertonCollege': 18}"
+Southampton,NOUN,metonymy,constant,lit_LOCATION_Southampton,met_INSTITUTE_UniversityofSouthampton,"{'lit_LOCATION_Southampton': 197, 'met_INSTITUTE_UniversityofSouthampton': 61}","{'lit_LOCATION_Southampton': 197, 'met_INSTITUTE_UniversityofSouthampton': 61}"
+Liverpool,NOUN,metonymy,constant,lit_LOCATION_Liverpool,met_INSTITUTE_UniversityofLiverpool,"{'lit_LOCATION_Liverpool': 218, 'met_INSTITUTE_UniversityofLiverpool': 44}","{'lit_LOCATION_Liverpool': 218, 'met_INSTITUTE_UniversityofLiverpool': 44}"
+Chelsea,NOUN,metonymy,constant,lit_LOCATION_Chelsea;Manhattan,met_ARTIFACT_HotelChelsea,"{'lit_LOCATION_Chelsea;Manhattan': 36, 'met_ARTIFACT_HotelChelsea': 24}","{'lit_LOCATION_Chelsea;Manhattan': 36, 'met_ARTIFACT_HotelChelsea': 24}"
+Oregon,NOUN,metonymy,constant,lit_LOCATION_Oregon,met_INSTITUTE_UniversityofOregon,"{'lit_LOCATION_Oregon': 169, 'met_INSTITUTE_UniversityofOregon': 47}","{'lit_LOCATION_Oregon': 169, 'met_INSTITUTE_UniversityofOregon': 47}"
+Pomona,NOUN,metonymy,constant,lit_LOCATION_Pomona;California,met_INSTITUTE_PomonaCollege,"{'lit_LOCATION_Pomona;California': 45, 'met_INSTITUTE_PomonaCollege': 79}","{'lit_LOCATION_Pomona;California': 45, 'met_INSTITUTE_PomonaCollege': 79}"
+Dunbar,NOUN,metonymy,constant,lit_LOCATION_Dunbar,met_ARTIFACT_DunbarCastle,"{'lit_LOCATION_Dunbar': 69, 'met_ARTIFACT_DunbarCastle': 26}","{'lit_LOCATION_Dunbar': 69, 'met_ARTIFACT_DunbarCastle': 26}"
+Kent,NOUN,metonymy,constant,lit_LOCATION_Kent,met_INSTITUTE_UniversityofKent,"{'lit_LOCATION_Kent': 111, 'met_INSTITUTE_UniversityofKent': 54}","{'lit_LOCATION_Kent': 111, 'met_INSTITUTE_UniversityofKent': 54}"
+Boulogne,NOUN,metonymy,constant,lit_LOCATION_Boulogne-sur-Mer,met_TEAM_USBoulogne,"{'lit_LOCATION_Boulogne-sur-Mer': 50, 'met_TEAM_USBoulogne': 23}","{'lit_LOCATION_Boulogne-sur-Mer': 50, 'met_TEAM_USBoulogne': 23}"
+Connecticut,NOUN,metonymy,constant,lit_LOCATION_Connecticut,met_INSTITUTE_UniversityofConnecticut,"{'lit_LOCATION_Connecticut': 83, 'met_INSTITUTE_UniversityofConnecticut': 58}","{'lit_LOCATION_Connecticut': 83, 'met_INSTITUTE_UniversityofConnecticut': 58}"

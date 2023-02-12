@@ -1,0 +1,19 @@
+nltk_path="ChangeTypeSimulation/package_data/nltk_data"
+stanza_path="ChangeTypeSimulation/package_data/stanza"
+
+vuamc_path="ChangeTypeSimulation/data/VUAMC"
+semcor_path="ChangeTypeSimulation/data/semcor"
+semcor_types=("taxonomy-hypernym" "taxonomy-hyponym")
+wimcor_path="ChangeTypeSimulation/data/wimcor-v1.1/dataset/xml"
+
+simulations="ChangeTypeSimulation/simulations/"
+
+rounds=1
+min_base=45
+min_other=20
+max_all=300
+no_changes=4
+mode="base_other"
+
+times=("14:58" "15:05" "15:11" "15:17" "15:24" "15:30" "15:36" "15:42" "15:48" "15:54" "16:00" "16:07" "16:13" "16:20" "16:27" "16:33" "16:40" "16:47" "16:53" "17:00")
+date="20230204"

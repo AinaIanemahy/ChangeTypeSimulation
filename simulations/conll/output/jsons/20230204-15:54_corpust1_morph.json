@@ -1,0 +1,63 @@
+{
+    "Girona": {
+        "Number=Sing": 62
+    },
+    "Aberdeen": {
+        "Number=Sing": 110
+    },
+    "Cork": {
+        "Number=Sing": 85
+    },
+    "Wimbledon": {
+        "Number=Sing": 26
+    },
+    "Zaragoza": {
+        "Number=Sing": 27
+    },
+    "Fukushima": {
+        "Number=Sing": 423
+    },
+    "Graz": {
+        "Number=Sing": 386
+    },
+    "Vincennes": {
+        "Number=Sing": 25
+    },
+    "Kent": {
+        "Number=Sing": 130
+    },
+    "Battersea": {
+        "Number=Sing": 29
+    },
+    "Indiana": {
+        "Number=Sing": 338
+    },
+    "Mysore": {
+        "Number=Sing": 149
+    },
+    "Everglades": {
+        "Number=Sing": 58,
+        "Number=Plur": 9
+    },
+    "Washington": {
+        "Number=Sing": 174
+    },
+    "Claremont": {
+        "Number=Sing": 131
+    },
+    "Marburg": {
+        "Number=Sing": 149
+    },
+    "Oklahoma": {
+        "Number=Sing": 181
+    },
+    "Irvine": {
+        "Number=Sing": 113
+    },
+    "Bowie": {
+        "Number=Sing": 55
+    },
+    "Hawaii": {
+        "Number=Sing": 116
+    }
+}

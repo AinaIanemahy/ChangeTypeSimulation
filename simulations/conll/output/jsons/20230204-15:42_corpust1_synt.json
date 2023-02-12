@@ -1,0 +1,198 @@
+{
+    "Alicante": {
+        "nmod": 68,
+        "conj": 18,
+        "obl": 51,
+        "flat": 2,
+        "appos": 12,
+        "compound": 13,
+        "obj": 2,
+        "root": 1
+    },
+    "Oklahoma": {
+        "obl": 12,
+        "nmod": 8,
+        "appos": 1,
+        "orphan": 1,
+        "nsubj:pass": 1,
+        "conj": 3,
+        "obj": 2,
+        "compound": 1
+    },
+    "Niagara": {
+        "obl": 10,
+        "compound": 1,
+        "nmod": 15,
+        "conj": 2,
+        "root": 1,
+        "appos": 1
+    },
+    "Thun": {
+        "nmod": 19,
+        "compound": 4,
+        "obl": 14,
+        "conj": 16,
+        "root": 1,
+        "appos": 1
+    },
+    "Compostela": {
+        "nmod": 266,
+        "obl": 107,
+        "orphan": 2,
+        "appos": 19,
+        "conj": 39,
+        "flat": 1,
+        "root": 3,
+        "obj": 3,
+        "xcomp": 1,
+        "list": 2,
+        "nsubj": 1
+    },
+    "Lund": {
+        "nsubj": 2,
+        "nmod": 24,
+        "conj": 11,
+        "obl": 18,
+        "compound": 1,
+        "nmod:poss": 1,
+        "nmod:tmod": 3,
+        "flat": 1
+    },
+    "Kosovo": {
+        "nmod": 10,
+        "conj": 13,
+        "acl:relcl": 1,
+        "appos": 2,
+        "obl": 2,
+        "nsubj": 1,
+        "list": 1
+    },
+    "Seville": {
+        "obl": 27,
+        "obj": 3,
+        "nmod": 27,
+        "conj": 14,
+        "appos": 1,
+        "orphan": 1
+    },
+    "Fullerton": {
+        "obl": 59,
+        "nmod": 48,
+        "conj": 7,
+        "obj": 2,
+        "orphan": 2,
+        "appos": 4,
+        "compound": 3
+    },
+    "Southampton": {
+        "nmod": 84,
+        "conj": 48,
+        "obl": 96,
+        "obj": 9,
+        "root": 2,
+        "appos": 7,
+        "nsubj": 1,
+        "nmod:poss": 3,
+        "compound": 11,
+        "nsubj:pass": 1,
+        "flat": 1,
+        "acl:relcl": 1
+    },
+    "Liverpool": {
+        "nsubj": 4,
+        "obj": 4,
+        "conj": 50,
+        "compound": 13,
+        "obl": 81,
+        "nmod:poss": 7,
+        "nmod": 104,
+        "obl:agent": 1,
+        "appos": 10,
+        "list": 2,
+        "nmod:tmod": 1,
+        "ccomp": 1,
+        "advcl": 1,
+        "root": 1
+    },
+    "Chelsea": {
+        "compound": 3,
+        "nmod": 30,
+        "obl": 26,
+        "nsubj": 1,
+        "nsubj:pass": 1,
+        "appos": 3,
+        "obj": 1,
+        "conj": 1
+    },
+    "Oregon": {
+        "compound": 15,
+        "flat": 1,
+        "appos": 12,
+        "obl": 18,
+        "nmod:poss": 7,
+        "conj": 63,
+        "obj": 7,
+        "nmod": 94,
+        "root": 1,
+        "list": 1,
+        "nsubj": 2
+    },
+    "Pomona": {
+        "appos": 4,
+        "nmod": 52,
+        "obl": 40,
+        "conj": 10,
+        "flat": 3,
+        "obj": 13,
+        "list": 1,
+        "nsubj:pass": 2,
+        "root": 1,
+        "nmod:poss": 2
+    },
+    "Dunbar": {
+        "compound": 2,
+        "nsubj:pass": 2,
+        "nmod": 38,
+        "conj": 15,
+        "obl": 35,
+        "nsubj": 1,
+        "appos": 4,
+        "flat": 1,
+        "obj": 3
+    },
+    "Kent": {
+        "nmod": 79,
+        "compound": 7,
+        "appos": 24,
+        "obj": 3,
+        "obl": 40,
+        "conj": 17,
+        "orphan": 1,
+        "nsubj": 2,
+        "advcl": 1
+    },
+    "Boulogne": {
+        "nmod": 23,
+        "obl": 37,
+        "appos": 6,
+        "conj": 23,
+        "compound": 3,
+        "flat": 1,
+        "obj": 3,
+        "root": 1,
+        "advcl": 1
+    },
+    "Connecticut": {
+        "compound": 9,
+        "conj": 27,
+        "appos": 19,
+        "obl": 30,
+        "nsubj": 3,
+        "nmod": 45,
+        "obj": 6,
+        "nmod:poss": 4,
+        "nsubj:pass": 1,
+        "obl:npmod": 1,
+        "obl:agent": 1
+    }
+}
